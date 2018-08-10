@@ -8,30 +8,30 @@ Bitácora de trabajo de María Bastiani para el equipo de investigacion.
 
 Agosto 2018
 
-Miercoles 8: 
+Miercoles 1: 
 	1) El día previo al inicio del sprint, el equipo de reunio (Yubeicis Matute, Uramay Cegarra y mi persona) donde se realizo la planificación del segundo sprint y 
            aclararon dudas sobre la metodología scrum, se elaboro un formato que le permitiera al equipo registrar su sprint diario y publicarlo en el trello con el objetivo de crear el habito en ellos.  
 	2) Inicio del filtrado de la informacion del sector del Cacao en el estado Sucre, especificado para la historia de usuario e incistir sobre el uso del formato de "Registro de Sprint Diario"  
 	3) No se considera ningun problema o impedimento.
 
-Jueves 9:
+Jueves 2:
 	1) Finalizar el filtrado de la informacion del sector del Cacao en el estado Sucre y condensar todo en arhivo de tipo pdf  
 	2) Revisión del archivo para asegurar que no tenga errores de ningun tipo.Iniciar con la investigación para ampliar la base de datos
            del sector del Cacao en el estado Sucre.   
 	3) Fallas en el servicio elétrico y internet que limitaron el uso de los apartos eletronicos 
 
-Viernes 10:
+Viernes 3:
         1) Investigue, una vez estable el servicio elétrico y de internet, sobre las asociaciones involucradras al sector del Cacao que estuvieran presentes en el estado Sucre.  
 	2) Seguir investigando acerca de las asociaciones, y ahora productores del sector de Cacao en el estado, que nos permitira ampliar la base de datos.  
 	3) No se considera ningun problema o impedimento.
 
-Lunes 13: 
+Lunes 6: 
 	1) Seguir investigando en internet sobre fundaciones, asociaciones y productores de Cacao en el estado Sucre.  
 	2) En la investigación del sector del Cacao en el estado Sucre (asociaciones, productores, fundaciones, entre otros) para ampliar la base de datos existente.
 	3) Información reducida acerca del sector. Se creen que las razones, sobretodo en el caso de productores independientes; es la ausenci de internet en 
            las zonas de se encuentra y muy posiblemente: deficiencia sobre el uso de la herramienta, como de una computadora.   
 
-Martes 14:
+Martes 7:
 	1) Finalizar la investigación acerca del sector del Cacao del estado Sucre en internet, comenzar agregar la información recaudada en un arhivo world que 
            sera llevado a formato pdf.   
 	2) Revisar el arhivo, para asegurarse no existan errores, hacer un chequeo que la información este correcta y no se este ignornando alguna asociación, productor
@@ -39,7 +39,7 @@ Martes 14:
 	3) Se mantiene la dificultad anterior. Llegando a la conclusion que: al ser productores independiente generalmente personal de la tercera edad; no tengan el manejo 
            de una computadora o internet, por lo cual, no se consigue información acerca de sus haciendas o organizaciones que puedan existir dedicads al sector.  
 
-Miercoles 15:
+Miercoles 8:
         1) Continuar con el chequeo para evitar ignorar alguna orgnización, productor, fundación o asosiación principalmente del sector del Cacao en estado Sucre.     
 	2) Revisión final de todos los archivos ya publicados, cuidando no existan errores. Reunión de final de sprint con el equipo que se mantuvo trabajando 
            activamente en sus tareas.    
