@@ -18,7 +18,7 @@ Jueves 2:
 	1) Finalizar el filtrado de la informacion del sector del Cacao en el estado Sucre y condensar todo en arhivo de tipo pdf  
 	2) Revisión del archivo para asegurar que no tenga errores de ningun tipo.Iniciar con la investigación para ampliar la base de datos
            del sector del Cacao en el estado Sucre.   
-	3) Fallas en el servicio elétrico y internet que limitaron el uso de los apartos eletronicos 
+	3) Fallas en el servicio elétrico y internet que limitaron el uso de los apartos eletronicos. 
 
 Viernes 3:
         1) Investigue, una vez estable el servicio elétrico y de internet, sobre las asociaciones involucradras al sector del Cacao que estuvieran presentes en el estado Sucre.  
