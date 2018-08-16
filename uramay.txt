@@ -1,0 +1,33 @@
+Bitácora de trabajo de Uramay Cegarra para el equipo investigación
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+Cerrar los avances del segundo sprint y revisar los entregables 
+
+2) ¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria?
+Terminar de cerrar mis tareas pendientes 
+
+3) ¿Qué problemas o impedimentos tengo?
+La intermitencia del internet, que me impide descargar algunas herramientas para realizar el cierre de las tareas 
+
+Agosto 2018
+
+Miercoles 1: 
+	
+	1)Bajar las imágenes satelitales del estado Sucre usando USGS (Las imágenes son pesadas y por lo tanto tardan un tiempo prolongado en descargarse)
+
+Jueves 2:
+	1) Trabajé con las imágenes para procesar el NVDI
+
+Viernes 3:
+	1) Establecí los polígonos de los posibles cultivos de cacao 
+
+Lunes 6:
+	1) Establecí los polígonos de los posibles cultivos de cacao 
+
+Martes 7: 
+	1) Realicé una comparación entre los polígonos delimitados y las plantaciones de cacao, especificamente con la Hacienda San José del estado Sucre 
+
+Miercoles 8:
+	1) Terminamos de cerrar las actividades
+	2) Reunión de cierre del segundo sprint
+	3) Terminar de revisar las demás tareas para llevarlas a terminado 
