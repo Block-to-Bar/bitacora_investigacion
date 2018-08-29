@@ -31,3 +31,38 @@ Miercoles 8:
 	1) Terminamos de cerrar las actividades
 	2) Reunión de cierre del segundo sprint
 	3) Terminar de revisar las demás tareas para llevarlas a terminado 
+
+
+Miercoles 15: 
+
+        1) El día previo al inicio del sprint, el equipo de reunio (María Bastiani, Yubeicis Matute y mi persona) donde se realizo la planificación del tercer sprint.
+	2) Empezar a bajar las imágenes de sátelite con el uso de USGS del estado Aragua, la imágen que se pretende usar es del 09/06/2018
+	3) No se considera ningun problema o impedimento.
+
+Jueves 16: 
+        1) Empezar a bajar las imágenes de sátelite con el uso de USGS del estado Aragua, la imágen que se pretende usar es del 09/06/2018
+
+Viernes 17: 
+        1) Finalizar la descarga de imágenes 
+	2) Comenzar con la búsqueda de trabajos de investigación del cacao relevantes para destacar en el boletin 
+	3) No se considera ningun problema o impedimento.
+Lunes 20
+	1) Problemas con la conexión a internet
+
+Martes 21
+	1) Trabajo con imágenes de satélite del estado Aragua para determinar así los cultivos de cacao 
+	2) Falla generalizada en las comunicaciones por el evento natural (sismo) en el país 
+
+Miercoles 22
+	1) Revisión preliminar de las tareas de Yubeicis Matute "Revisión final de correo corporativo"
+	2) Revisión preliminar de la tarea de María Bastiani "Investigar noticias destacadas de productores de cacao del país (semana 1)"
+	3) Reunión con los product ower de los demás equipos para chequear tareas compartidas e intercambiar ideas para mantener una cmunicación fluida entre todos 
+	4) No se considera ningun problema o impedimento.
+
+Jueves 23
+	1) Revisar la tarea de Yubeicis Matute "Revisión final de correo corporativo" con las observaciones finales que con anterioridad se habían conversado, se paso a Barbara Lugo para su aprobación final y posible distribución a fundaciones
+	2) Trabajar con las imágenes de satelite que se habían bajado del USGS del estado Aragua 
+	3) Revisión final de la tarea de María Bastiani "Investigar noticias destacadas de productores de cacao del país (semana 1)"
+	Nota: Se pretende crear una base de datos de dominio público para manejo y conocimiento de la fundación Bitnits, con la información y lo hasta ahora investigado para cuando se requiera su uso 
+
+
