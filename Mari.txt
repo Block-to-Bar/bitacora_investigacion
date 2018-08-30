@@ -149,7 +149,7 @@ Lunes 27)
 	2) Continuar con la investigación y iniciar con le lectura de  tessis o trabajos especiles referente al sector del cacao que se puedan reseñar y puedan ser usandos 
            dentro del proyecto. 
 
-	3) Fallas en el servicio elético, cuando se establecio el mismo, originaron problemas con la conexión de internet que no permitieron mayor alcance de la investigación 
+	3) Fallas en el servicio elétrico, cuando se establecio el mismo, originaron problemas con la conexión de internet que no permitieron mayor alcance de la investigación 
 
 
 Martes 28)
@@ -157,5 +157,14 @@ Martes 28)
 
 	2) Revisión global de toda la información recabada y elaboración del documento global de la misma para ser entregado al equipo correspondiente para que inicien con los diseños 
            de los boletines. 
+
+	3) No se considera ningun problema o impedimento.
+
+
+Miercoles 29)
+        1) Revisión y finalización del documento con todas las noticias, y de una tabla de control de contenido. Concluyendo con éxito las tareas asignadas. 
+
+	2) ¡Recargar las ChocoEnergías!. Establecer como equipo las proximas HU a trabajar, desglosandolas hasta lo más mínimo para poder realizarlas en el tiempo
+           estimado de duración del cuarto sprint. 
 
 	3) No se considera ningun problema o impedimento.
