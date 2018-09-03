@@ -6,45 +6,64 @@ Bitácora de trabajo de María Bastiani para el equipo de investigacion.
 
 3) ¿Qué problemas o impedimentos tengo?
 
+
 Agosto 2018
+
 
 Miercoles 1: 
 	1) El día previo al inicio del sprint, el equipo de reunio (Yubeicis Matute, Uramay Cegarra y mi persona) donde se realizo la planificación del segundo sprint y 
-           aclararon dudas sobre la metodología scrum, se elaboro un formato que le permitiera al equipo registrar su sprint diario y publicarlo en el trello con el objetivo de crear el habito en ellos.  
+           aclararon dudas sobre la metodología scrum, se elaboro un formato que le permitiera al equipo registrar su sprint diario y publicarlo en el trello con el objetivo de crear el habito en ellos. 
+ 
 	2) Inicio del filtrado de la informacion del sector del Cacao en el estado Sucre, especificado para la historia de usuario e incistir sobre el uso del formato de "Registro de Sprint Diario"  
+
 	3) No se considera ningun problema o impedimento.
+
 
 Jueves 2:
-	1) Finalizar el filtrado de la informacion del sector del Cacao en el estado Sucre y condensar todo en arhivo de tipo pdf  
+	1) Finalizar el filtrado de la informacion del sector del Cacao en el estado Sucre y condensar todo en arhivo de tipo pdf.
+  
 	2) Revisión del archivo para asegurar que no tenga errores de ningun tipo.Iniciar con la investigación para ampliar la base de datos
-           del sector del Cacao en el estado Sucre.   
+           del sector del Cacao en el estado Sucre.  
+ 
 	3) Fallas en el servicio elétrico y internet que limitaron el uso de los apartos eletronicos. 
 
+
 Viernes 3:
-        1) Investigue, una vez estable el servicio elétrico y de internet, sobre las asociaciones involucradras al sector del Cacao que estuvieran presentes en el estado Sucre.  
-	2) Seguir investigando acerca de las asociaciones, y ahora productores del sector de Cacao en el estado, que nos permitira ampliar la base de datos.  
+        1) Investigue, una vez estable el servicio elétrico y de internet, sobre las asociaciones involucradras al sector del Cacao que estuvieran presentes en el estado Sucre. 
+ 
+	2) Seguir investigando acerca de las asociaciones, y ahora productores del sector de Cacao en el estado, que nos permitira ampliar la base de datos. 
+ 
 	3) No se considera ningun problema o impedimento.
 
+
 Lunes 6: 
-	1) Seguir investigando en internet sobre fundaciones, asociaciones y productores de Cacao en el estado Sucre.  
+	1) Seguir investigando en internet sobre fundaciones, asociaciones y productores de Cacao en el estado Sucre. 
+ 
 	2) En la investigación del sector del Cacao en el estado Sucre (asociaciones, productores, fundaciones, entre otros) para ampliar la base de datos existente.
+
 	3) Información reducida acerca del sector. Se creen que las razones, sobretodo en el caso de productores independientes; es la ausenci de internet en 
            las zonas de se encuentra y muy posiblemente: deficiencia sobre el uso de la herramienta, como de una computadora.   
 
+
 Martes 7:
 	1) Finalizar la investigación acerca del sector del Cacao del estado Sucre en internet, comenzar agregar la información recaudada en un arhivo world que 
-           sera llevado a formato pdf.   
+           sera llevado a formato pdf. 
+  
 	2) Revisar el arhivo, para asegurarse no existan errores, hacer un chequeo que la información este correcta y no se este ignornando alguna asociación, productor
-           o fundación del lugar.       
+           o fundación del lugar.    
+   
 	3) Se mantiene la dificultad anterior. Llegando a la conclusion que: al ser productores independiente generalmente personal de la tercera edad; no tengan el manejo 
            de una computadora o internet, por lo cual, no se consigue información acerca de sus haciendas o organizaciones que puedan existir dedicads al sector.  
 
 Miercoles 8:
-        1) Continuar con el chequeo para evitar ignorar alguna orgnización, productor, fundación o asosiación principalmente del sector del Cacao en estado Sucre.     
+        1) Continuar con el chequeo para evitar ignorar alguna orgnización, productor, fundación o asosiación principalmente del sector del Cacao en estado Sucre. 
+    
 	2) Revisión final de todos los archivos ya publicados, cuidando no existan errores. Reunión de final de sprint con el equipo que se mantuvo trabajando 
            activamente en sus tareas.    
+
 	3) Se mantiene la dificultad expresada anteriormente; acerca de la información reducida en la web de este sector en el estado Sucre. Se espera un futuro este deje 
            de ser una limitante que no permita ampliar la base de datos, sin el requerimiento de hacer un trabajo de campo. 
+
 
 
 
@@ -52,18 +71,100 @@ Miercoles 8:
 Miercoles 15: 
 
         1) El día previo al inicio del sprint, el equipo de reunio (Yubeicis Matute, Uramay Cegarra y mi persona) donde se realizo la planificación del tercer sprint.
+
 	2) Investigar noticias de los productores de cacao del país para ser utilizada en el diseño de los boletines semanales que recibiran los subscritores
            por correo e-mail.  
+
 	3) No se considera ningun problema o impedimento.
+
 
 Jueves 16: 
         1) Finalizar y concretar el documento donde se encuentra todas las noticias del año sobre los productores de cacao del país. 
-	2) Investigar noticias de las fundaciones involucradas en el sector del cacao (o chocolate) para ser utilizada en el diseño de los boletines semanales que
+	
+        2) Investigar noticias de las fundaciones involucradas en el sector del cacao (o chocolate) para ser utilizada en el diseño de los boletines semanales que
            recibiran los subscritores por e-mail.
+
 	3) Fallas en el servicio de internet que retardaron en varias oportunidades la investigación. 
+
 
 Viernes 17: 
         1) Continuar con la investigación de noticias referente a fundaciones involucradas al sector de cacao (o chocolate) del país.
+
 	2) Finalizar el documento con las noticias de las fundaciones e iniciar con la investigación de las mismas pero referente alguna 
            asosiación involucrada al sector del cacao o chocolate del país. 
+
+	3) No se considera ningun problema o impedimento.
+
+
+Lunes 20:
+        1) Realizar correciones en el documento de noticias destacadas de productores de cacao, agregando y modificando noticias del sector. 
+
+	2) Investigar noticias varias del sector de cacao y chocolate nacional e internacional para ser utilizada en el diseño de los boletines 
+           semanales que recibiran los subscritores por correo e-mail.   
+
+	3) La información referente al sector de productores de cacao positiva es muy escasa, debido al decaimiento que ha tenido este sector en los últimos años.
+
+
+Martes 21:
+        1) Se continuo con la investigación variadad del sector, ya que internet existe una amplia base de datos de la misma. 
+
+	2) Finalizar el documento de las noticias variadas del sector de chocolate y cacalate. Iniciar con una primer avistamiento 
+           de noticias sobre las asociaciones involucradas en el sector de cacao y chocolate.
+
+	3) Sismo ocurrido a las 5:31 p.m. que interrumpió el proceso de trabajo, generando fallas en el servicio de internet.  
+
+
+Miercoles 22:
+        1) Continuar con la investindaciones de asociaciones involucradas al sector de cacao (o chocolate) del país.
+
+	2) Finalizar investigación de  noticias destacadas de asociaciones involucradas en el sector del cacao del país, se tomó la consideración de buscarlas como cooperativas
+           o agrupaciones para obtener información. Se comenzó a condensar toda la información en un documento. 
+
+	3) Ausencia de información de asociaciones involucradas al sector de cacao, se complementó la búsqueda cambiando el nombre a Cooperativa 
+           encontrando algunas noticas muy limitadas en la red. Se propone realizar una investigación de campo, debido puede ser aun existan asociaciones 
+           y cooperativas pero n estén reseñadas en internet, las mismas puedan estar haciendo un gran trabajo en su estado que no se está dando a conocer a la nación 
+
+
+Jueves 23):
+        1) Se finalizo la primera parte de la investigación, con un documento donde esta condensada toda la información con imagenes y una tabla donde facilmente se pueden
+           leer los encabezados que se encuentran en el archivo. 
+
+	2) Hacer las correciones necesarias al primer archivo de investigacion e Iniciar con la investigación de noticias globales, sin clasificación del cacao y chocolate 
+           nacional-internacional.
+
+	3) Problemas con el servicio de internet no permitieron publicar los avances el día correspondiente. 
+
+
+Viernes 24)
+        1) Iniciar con la segunda parte de la investigación de las noticias de cacao y chocolate nacional-internacional. 
+
+	2) Seguir investigando, en esta segunda investigación se tomaran tambien tessis o trabajos especiles referente al sector. 
+
+	3) No se considera ningun problema o impedimento.
+
+
+Lunes 27)
+        1) Investigar noticias de cacao y chocolate nacional-internacional. 
+
+	2) Continuar con la investigación y iniciar con le lectura de  tessis o trabajos especiles referente al sector del cacao que se puedan reseñar y puedan ser usandos 
+           dentro del proyecto. 
+
+	3) Fallas en el servicio elétrico, cuando se establecio el mismo, originaron problemas con la conexión de internet que no permitieron mayor alcance de la investigación 
+
+
+Martes 28)
+        1) Finalizar la lectura de tessis y trabajos considerados para el entregable, también finalizar la investigación de noticias del sector 
+
+	2) Revisión global de toda la información recabada y elaboración del documento global de la misma para ser entregado al equipo correspondiente para que inicien con los diseños 
+           de los boletines. 
+
+	3) No se considera ningun problema o impedimento.
+
+
+Miercoles 29)
+        1) Revisión y finalización del documento con todas las noticias, y de una tabla de control de contenido. Concluyendo con éxito las tareas asignadas. 
+
+	2) ¡Recargar las ChocoEnergías!. Establecer como equipo las proximas HU a trabajar, desglosandolas hasta lo más mínimo para poder realizarlas en el tiempo
+           estimado de duración del cuarto sprint. 
+
 	3) No se considera ningun problema o impedimento.
