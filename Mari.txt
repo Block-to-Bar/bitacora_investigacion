@@ -168,3 +168,18 @@ Miercoles 29)
            estimado de duración del cuarto sprint. 
 
 	3) No se considera ningun problema o impedimento.
+
+
+
+
+
+Septiembre 2018:
+
+Lunes 03)
+        1) Se establecieron todos los requerimientos de la metodología scrum y se dio inicio el cuarto sprint.
+
+	2) Realizar un documento solicitado por la scrum master de forma general. Iniciar con la primera tarea asignadas de la pila de sprint, orientada en la creación
+           de una base de datos, donde se encuentre la información recabada por el equipo, asi facilitar su uso para los demas equipos cuando lo necesiten. 
+
+	3) No se considera ningun problema o impedimento.
+
