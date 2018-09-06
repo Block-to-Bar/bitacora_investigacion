@@ -193,3 +193,12 @@ Martes 04)
 
 	3) No se considera ningun problema o impedimento.
 
+
+Miercoles 05)
+        1) Obtener, clasificar y editar la información que se ha documentado bajo un mismo formato. Elaboración de un repositorio de prueba, con contenido academico para 
+           evitar cualquier error o duda que se podría presentar al crear el repositorio principal. Link repositorio de prueba: https://github.com/maribastiani/Prueba_1    
+
+	2) Finalizar la edicción de la información documentada. Creación del respositorio e iniciar con la ubicación de las carpetas con su respectiva información. 
+
+	3) No se considera ningun problema o impedimento.
+
