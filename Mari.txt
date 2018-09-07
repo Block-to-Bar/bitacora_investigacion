@@ -202,3 +202,13 @@ Miercoles 05)
 
 	3) No se considera ningun problema o impedimento.
 
+
+Jueves 06)
+        1) Creación del repositorio donde estara la información documentada y se inicio a cargar la misma de forma organizada en carpetas, cuidando que todos los archivos se encontraran 
+           en el mismo formato. 
+
+	2) Cotinuar subiendo la información al repositorio hasta completar dicho ciclo, se destaca que el mismo se ira actualizando en medida que se avancen y documente información
+           en los sprint siguientes. 
+
+	3) Fallas en el servicio de internet debido a lluvias que se presentaron en la tarde del día, imposibilitaron la carga de mayor contenido en el repositorio.
+
