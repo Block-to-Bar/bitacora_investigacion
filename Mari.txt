@@ -258,5 +258,14 @@ Miercoles 12)
 	
         2) Desglosar las tareas asignadas hasta lo mínimo que se puede hacer; para su abordaje de forma correcta e iniciar con las mismas.  
 
+	3) No se consiera ningun problema o impedimento.
+
+Jueves 13)
+        1) Se finalizo el archivo con los contactos para ser publicado en el repositorio del equipo, se inicio con la investigación referente a uno de los requerimientos del equipo 
+           de Markentig con respecto al uso de las tecnologías en el sector cacao.       
+	
+        2) Cuando se tenga la aprobación del documento ser publicado en el repositorio y continuar con la investigación para cumplir con el requerimiento del equipo de Markentig.    
+
 	3) No se consiera ningun problema o impedimento. 
+ 
 
