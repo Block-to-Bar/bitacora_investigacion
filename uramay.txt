@@ -1,13 +1,9 @@
 Bitácora de trabajo de Uramay Cegarra para el equipo investigación
 
 1) ¿Qué hice desde la última reunión diaria hasta ahora?
-Organizar la pila de sprint para la semana número 5 
-Quedaron distribuidas de la siguiente forma:
-Informe de los objetivos del equipo, trabajo que se realiza y descripción técnica sobre los mapas y el sistema de geolocalización.
-Recopilación de reseñas sobre cómo se están usando en el mundo las nuevas tecnologías, los sistemas de geolocalización, etc.
-Recopilación de reseñas de otros emprendimientos o iniciativas que se asemejen al nuestro.
-Terminar de subir documentos a la base de datos en github
-Realizar el enlace final con las fundaciones y asociaciones de cacao
+- Terminar de desglosar tareas propias y ponderación de las mismas 
+- Organización de los recursos ya trabajados en otros sprint
+- Revisar tareas colocadas en trello por Maria Bastiani y Yubeicis Matute 
 
 2) ¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria?
 
@@ -22,6 +18,11 @@ Miercoles 12:
 	
 - Reunión de cierre de sprint
 - Reunión con el equipo de investigación para determinar la pila de sprint, realizar todos los rituales del scrum: discusión y ponderación de actividades, etc 	
+
+Jueves 13:
+- Terminar de desglosar tareas propias y ponderación de las mismas 
+- Organización de los recursos ya trabajados en otros sprint
+- Revisar tareas colocadas en trello por Maria Bastiani y Yubeicis Matute 
 
 
 
