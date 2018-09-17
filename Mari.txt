@@ -68,6 +68,7 @@ Miercoles 8:
 
 
 
+
 Miercoles 15: 
 
         1) El día previo al inicio del sprint, el equipo de reunio (Yubeicis Matute, Uramay Cegarra y mi persona) donde se realizo la planificación del tercer sprint.
@@ -173,7 +174,9 @@ Miercoles 29)
 
 
 
+
 Septiembre 2018:
+
 
 Lunes 03)
         1) Se establecieron todos los requerimientos de la metodología scrum y se dio inicio el cuarto sprint.
@@ -211,4 +214,67 @@ Jueves 06)
            en los sprint siguientes. 
 
 	3) Fallas en el servicio de internet debido a lluvias que se presentaron en la tarde del día, imposibilitaron la carga de mayor contenido en el repositorio.
+
+
+Viernes 07)
+        1)------------------  
+
+	2)----------------- 
+
+	3) Fallas en el servicio de internet todo el día, que no permitieron conexión a la red y por cosecuencia no se pudo continuar con las tareas.
+
+
+Sabado 08) (Se recupero el tiempo perdido de trabajo este día)
+        1) Reportar el servicio de internet el cual fue restaurado este día.
+  
+	2) Se termino de subir la información al repositorio, bajo un formato establecido y se comento acerca la información que faltaba a los otros miembros del equipos.
+           para ser agregada. 
+
+	3) No se considera ningun problema o impedimento. 
+
+Lunes 10)
+        1) Conversación con el resto del equipo sobre la información faltaste, los cuales se comprometieron a facilitarla ya editada y corregida para ser cargada en el proximo
+           sprint.   
+
+	2) Realizar pruebas en otras computadora del repositorio y dar por finalizada la tarea, recargar las ChocoEnergías para el siguiente sprint.
+
+	3) No se consiera ningun problema o impedimento. 
+
+
+
+
+
+
+Martes 11)
+        1) Realizar restropesctiva sobre los sprint que han finalizando, hablar sobre dificultades, debilidades y tareas que se deben considerar para el sprint a iniciar.
+	
+        2) Realizar y tener presentes, posibles investigaciones a llevar para sprints proximos de los equipos de markentig y desarrollo. 
+
+	3) No se consiera ningun problema o impedimento. 
+
+Miercoles 12)
+        1) Reunión de organización, estbalecimiento de reglas, aclaratorias, priorización y recibir los requerimientos de otros equipos para ser tomados en cuenta en el sprint 
+           que inicia.   
+	
+        2) Desglosar las tareas asignadas hasta lo mínimo que se puede hacer; para su abordaje de forma correcta e iniciar con las mismas.  
+
+	3) No se consiera ningun problema o impedimento.
+
+Jueves 13)
+        1) Se finalizo el archivo con los contactos para ser publicado en el repositorio del equipo, se inicio con la investigación referente a uno de los requerimientos del equipo 
+           de Markentig con respecto al uso de las tecnologías en el sector cacao.       
+	
+        2) Cuando se tenga la aprobación del documento ser publicado en el repositorio y continuar con la investigación para cumplir con el requerimiento del equipo de Markentig.    
+
+	3) No se consiera ningun problema o impedimento. 
+
+Viernas 14)
+        1) Se continuo con la investigación orientada hacia la influencia de la tecnología en el sector de cacao, tanto a nivel nacional como internacional.      
+	
+        2) Finalizar la investigación de dicho tema e iniciar con otra referente al punto de la influencia de las geolocalizaciones estan inverviniendo el sector del cacao y otros
+           que puedan ser usados como ejemplo del uso de las mismas.    
+
+	3) No se consiera ningun problema o impedimento. 
+ 
+ 
 
