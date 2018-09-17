@@ -1,68 +1,28 @@
 Bitácora de trabajo de Uramay Cegarra para el equipo investigación
 
 1) ¿Qué hice desde la última reunión diaria hasta ahora?
-Cerrar los avances del segundo sprint y revisar los entregables 
+- Terminar de desglosar tareas propias y ponderación de las mismas 
+- Organización de los recursos ya trabajados en otros sprint
+- Revisar tareas colocadas en trello por Maria Bastiani y Yubeicis Matute 
 
 2) ¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria?
-Terminar de cerrar mis tareas pendientes 
+
+En organizar la información que hasta ahora se ha obtenido en cuanto a la cartografía 
 
 3) ¿Qué problemas o impedimentos tengo?
-La intermitencia del internet, que me impide descargar algunas herramientas para realizar el cierre de las tareas 
+La intermitencia del internet
 
-Agosto 2018
+Septiembre 2018
 
-Miercoles 1: 
+Miercoles 12: 
 	
-	1)Bajar las imágenes satelitales del estado Sucre usando USGS (Las imágenes son pesadas y por lo tanto tardan un tiempo prolongado en descargarse)
+- Reunión de cierre de sprint
+- Reunión con el equipo de investigación para determinar la pila de sprint, realizar todos los rituales del scrum: discusión y ponderación de actividades, etc 	
 
-Jueves 2:
-	1) Trabajé con las imágenes para procesar el NVDI
+Jueves 13:
+- Terminar de desglosar tareas propias y ponderación de las mismas 
+- Organización de los recursos ya trabajados en otros sprint
+- Revisar tareas colocadas en trello por Maria Bastiani y Yubeicis Matute 
 
-Viernes 3:
-	1) Establecí los polígonos de los posibles cultivos de cacao 
-
-Lunes 6:
-	1) Establecí los polígonos de los posibles cultivos de cacao 
-
-Martes 7: 
-	1) Realicé una comparación entre los polígonos delimitados y las plantaciones de cacao, especificamente con la Hacienda San José del estado Sucre 
-
-Miercoles 8:
-	1) Terminamos de cerrar las actividades
-	2) Reunión de cierre del segundo sprint
-	3) Terminar de revisar las demás tareas para llevarlas a terminado 
-
-
-Miercoles 15: 
-
-        1) El día previo al inicio del sprint, el equipo de reunio (María Bastiani, Yubeicis Matute y mi persona) donde se realizo la planificación del tercer sprint.
-	2) Empezar a bajar las imágenes de sátelite con el uso de USGS del estado Aragua, la imágen que se pretende usar es del 09/06/2018
-	3) No se considera ningun problema o impedimento.
-
-Jueves 16: 
-        1) Empezar a bajar las imágenes de sátelite con el uso de USGS del estado Aragua, la imágen que se pretende usar es del 09/06/2018
-
-Viernes 17: 
-        1) Finalizar la descarga de imágenes 
-	2) Comenzar con la búsqueda de trabajos de investigación del cacao relevantes para destacar en el boletin 
-	3) No se considera ningun problema o impedimento.
-Lunes 20
-	1) Problemas con la conexión a internet
-
-Martes 21
-	1) Trabajo con imágenes de satélite del estado Aragua para determinar así los cultivos de cacao 
-	2) Falla generalizada en las comunicaciones por el evento natural (sismo) en el país 
-
-Miercoles 22
-	1) Revisión preliminar de las tareas de Yubeicis Matute "Revisión final de correo corporativo"
-	2) Revisión preliminar de la tarea de María Bastiani "Investigar noticias destacadas de productores de cacao del país (semana 1)"
-	3) Reunión con los product ower de los demás equipos para chequear tareas compartidas e intercambiar ideas para mantener una cmunicación fluida entre todos 
-	4) No se considera ningun problema o impedimento.
-
-Jueves 23
-	1) Revisar la tarea de Yubeicis Matute "Revisión final de correo corporativo" con las observaciones finales que con anterioridad se habían conversado, se paso a Barbara Lugo para su aprobación final y posible distribución a fundaciones
-	2) Trabajar con las imágenes de satelite que se habían bajado del USGS del estado Aragua 
-	3) Revisión final de la tarea de María Bastiani "Investigar noticias destacadas de productores de cacao del país (semana 1)"
-	Nota: Se pretende crear una base de datos de dominio público para manejo y conocimiento de la fundación Bitnits, con la información y lo hasta ahora investigado para cuando se requiera su uso 
 
 
