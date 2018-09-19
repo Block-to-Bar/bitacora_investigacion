@@ -296,6 +296,13 @@ Martes 18)
 
 	3) No se consiera ningun problema o impedimento. 
  
+Miercoles 19)
+        1) Terminó de subir al repositorio ( https://github.com/maribastiani/database_investigacion ) la información del sprint 5, se puso a orden de todos el mismo. Complementado con una guía para entender el porqué del documento y como usar el repositorio
+           de forma correcta.
+	
+        2) Recargar las ChocoEnergías para el siguiente sprint y reunirme con mi equipo para planificar el próximo sprint iniciar. 
+
+	3) No se consiera ningun problema o impedimento. 
  
  
 
