@@ -1,13 +1,13 @@
 Bitácora de trabajo de Uramay Cegarra para el equipo investigación
 
 1) ¿Qué hice desde la última reunión diaria hasta ahora?
-- Terminar de desglosar tareas propias y ponderación de las mismas 
-- Organización de los recursos ya trabajados en otros sprint
-- Revisar tareas colocadas en trello por Maria Bastiani y Yubeicis Matute 
+Realizar cuatros tareas asignadas en el sprint 
+- Crear un espacio de trabajo en ArcGIS online para montar todo nuestroo trabajo cartográfico
+- Revisar tareas de Yubeicis Matute y María Bastiani  Matute 
 
 2) ¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria?
 
-En organizar la información que hasta ahora se ha obtenido en cuanto a la cartografía 
+Crear un espacio de trabajo en ArcGIS online para montar todo nuestroo trabajo cartográfico
 
 3) ¿Qué problemas o impedimentos tengo?
 La intermitencia del internet
@@ -24,5 +24,13 @@ Jueves 13:
 - Organización de los recursos ya trabajados en otros sprint
 - Revisar tareas colocadas en trello por Maria Bastiani y Yubeicis Matute 
 
+Viernes 14:
+- Acompañar a Barbara Lugo a una reunión en los espacios de we connect
+- Bajar unas imágenes satélitales complementarias para hacer el NVDI sugerido en el sprint
+
+Lunes 17:
+- Realizar cuatros tareas asignadas en el sprint 
+- Crear un espacio de trabajo en ArcGIS online para montar todo nuestroo trabajo cartográfico
+- Revisar tareas de Yubeicis Matute y María Bastiani 
 
 
