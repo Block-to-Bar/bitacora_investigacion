@@ -276,13 +276,23 @@ Viernas 14)
 
 	3) No se consiera ningun problema o impedimento. 
 
-
 Lunes 17)
         1) Realizar, revisar y finalizar la investigación acerca de los avances tecnológicos referentes a las geoloclizaciones en el mundo, principalmente en la agriultura. Actualizar 
            el repositorio con la información referente a contactos para que la fundación cree nuevas alianzas.  
 	
         2) Realizar la investigación correspondiente a la tecnología en el sector del mercado, referente a nuevos avances y predicciones de las mismas. Por ejemplo sobre las criptomonedas 
            y la tecnología blockchain.     
+
+	3) No se consiera ningun problema o impedimento. 
+
+ 
+Martes 18)
+        1) Realizar, revisar y finalizar la investigación sobre tecnolgías que es liderando el mercado. El documento que se realizó consta de aproximadamente 300 paginas, se comento 
+          acerca que el mismo puede ser ampliando en caso de ser requerido por el equipo solicitante. Actualización del repositorio del equipo de investigación con la información
+          de poligonos de cacao y ubicación de haciendas que ha estado trabajando la geógrafa srta Uramay Cegarra. 
+	
+        2) Realizar infografía para el uso de forma correcta el repositorio del investigacón por parte de miembros de otros equipos y agregar la informacón documentada durante este sprint para 
+           el libre acceso cuando los participantes del proyecto lo necesiten.    
 
 	3) No se consiera ningun problema o impedimento. 
  
