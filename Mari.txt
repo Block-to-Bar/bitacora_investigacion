@@ -10,6 +10,10 @@ Bitácora de trabajo de María Bastiani para el equipo de investigacion.
 Agosto 2018
 
 
+--Sprint 2---
+
+
+
 Miercoles 1: 
 	1) El día previo al inicio del sprint, el equipo de reunio (Yubeicis Matute, Uramay Cegarra y mi persona) donde se realizo la planificación del segundo sprint y 
            aclararon dudas sobre la metodología scrum, se elaboro un formato que le permitiera al equipo registrar su sprint diario y publicarlo en el trello con el objetivo de crear el habito en ellos. 
@@ -66,6 +70,9 @@ Miercoles 8:
 
 
 
+
+
+--Sprint 3---
 
 
 
@@ -178,6 +185,10 @@ Miercoles 29)
 Septiembre 2018:
 
 
+--Sprint 4--
+
+
+
 Lunes 03)
         1) Se establecieron todos los requerimientos de la metodología scrum y se dio inicio el cuarto sprint.
 
@@ -244,6 +255,9 @@ Lunes 10)
 
 
 
+--Sprint 5--
+
+
 
 Martes 11)
         1) Realizar restropesctiva sobre los sprint que han finalizando, hablar sobre dificultades, debilidades y tareas que se deben considerar para el sprint a iniciar.
@@ -303,6 +317,24 @@ Miercoles 19)
         2) Recargar las ChocoEnergías para el siguiente sprint y reunirme con mi equipo para planificar el próximo sprint iniciar. 
 
 	3) No se consiera ningun problema o impedimento. 
+
+
+
+
+
+
+--Sprint 6--
+
+
+Lunes 24)
+        1) Estar recargando las ChocoEnergías, leer acerca de la nueva campaña a reaizarse y establecer las tareas que aportaran para la misma en la reunión del equipo, debido por actividades
+           academicas no fue posible asistir de forma presencial. 
+	
+        2) Iniciar un pequeño y rapido filtrado de la base de datos que se tiene documentada por parte del equipo del investigación para realizar un documento solo con productores e iniciar 
+           una investigación de los mismos para tener una idea sobre: ¿quienes son? ¿que le podemos ofrecer? ¿intereses? ¿por qué lo estamos contactando?.      
+
+	3) No se consiera ningun problema o impedimento. 
+
  
  
 
