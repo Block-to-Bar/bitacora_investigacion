@@ -326,6 +326,7 @@ Miercoles 19)
 --Sprint 6--
 
 
+
 Lunes 24)
         1) Estar recargando las ChocoEnergías, leer acerca de la nueva campaña a reaizarse y establecer las tareas que aportaran para la misma en la reunión del equipo, debido por actividades
            academicas no fue posible asistir de forma presencial. 
@@ -341,11 +342,81 @@ Martes 25)
         1) Se realizó el filtrado sobre la información ya documentada, resaltando solo por este sprint la de productores con los que no se posee enlaces. Se inicio con la investigación de los mismos
            para tener idea clara acerca de: ¿quienes son? ¿en que se han relacionado? ¿cual es la mejor forma de ofrecerles lo que deseamos? 
 	
-        2) Finalizar la investigación acerca del sector productor con el que se va a contactar y establecer lineamientos con la gerente de investigación srta Uramay Cegarra para los contactos que se  
+        2) Finalizar la investigación acerca del sector productor con el que se va a contactar y establecer lineamientos con la gerente de investigación Srta Uramay Cegarra para los contactos que se  
            realizarán vía telefónica.      
 
 	3) Fallas en el servicio de internet no permitieron finalizar la investigación el día de hoy.
 
- 
- 
+
+Miercoles 26) 
+        1) Se realizó una investigación extra acerca de un contacto para traducir el documento del metodo de fermentación del Sr. Silvio Bessone y se investigó acerca de los requisitos para exportar 
+           cacao desde Venezuela y sobre empresas exportadoras del mismo en el país principalmente.
+	
+        2) Finalizar la investigación acerca del sector productor con el que se va a contactar para conocerlos antes que ellos a nosotros (Fundación Bit&Nibs)
+
+	3) No se consiera ningun problema o impedimento.
+
+
+
+Jueves 27) 
+        1) Se finalizó la investigación acerca de los productores de cacao con el que se espera realizar contacto y se realizó la edicción del documento para que su entregable cumplierá con los lineamientos
+           del manual corporativo.  
+	
+        2) Realizar una investigación más en internet para asegurarse que se encuentra la información precisa solicitada y entregar el documento a la gerente de investigación Srta Uramay Cegarra.  
+
+	3) No se consiera ningun problema o impedimento.
+
+
+Viernes 28. Sabado 29. Domingo 30.) 
+        1) Se intentó entregar el documento finalizado a la Srta. Uramay Cegarra pero no fue posible.
+	
+        2) Resolver la situación con el internet no permitierón una conexión a la red y comunicarle a la gerente de investigación acerca del incoveniente.
+
+	3) Fallas en el servicio de interner que no permitieron una conexción estable para realizar el entregable en la fecha que se esperaba.
+
+
+
+
+Octubre 2018:
+
+
+
+
+Lunes 01) 
+        1) Se pudo realizar el entregable del documento faltante a la gerente de investigación, resolviendo con exitó el problema de la falla de internet. El mismo se le hizo llegar por medio de Slack como
+           ha sucedido con otros documentos, debido que los mismos superan el peso permitido en la paltaforma de Trello. 
+	
+        2) ¡Recargar las ChocoEnergías! Reunirme y comentar con el equipo acerca de las tareas que tendran prioridad para ser realizadas en el proximó sprint. 
+
+	3) No se consiera ningun problema o impedimento.
+
+
+
+Martes 02) 
+        1) Realizar la restropesctiva acerca del sprint finalizado, comentar dificultades o incovenientes que se pudieron haber presentado, estar presente en la reunión grupal por parte del equipo de 
+           investigación. Definir el objetivo del equipo de investigación por parte del CVO Sr. Germán Lugo y plantearle las tareas que se tenian pensadas par ser realizadas en el nuevo sprint.  
+	
+        2) Reunión con el equipo de investigación para informales acerca de los lineamientos, requisitos y dificultades que fueron planteados en la reunión grupal, destacar las tareas que deben tomarse como 
+           prioridad para el nuevo sprint.    
+
+	3) No se consiera ningun problema o impedimento.
+
+
+
+
+
+--Sprint 7--
+
+
+
+
+Miercoles 03) 
+        1) Reunión con la Srta. Uramay Cegarra en horas de la tarde, para ser informada acerca de los planteamientos y lineamientos que se pudieron haber conversado en la reunión de horas de la mañana, donde 
+           mi persona no pudo estar presente, ya que me encontraba cumpliendo con la responsabilidad de asistir a clases en la USB.Ademas, se planifico el sprint número 7, siguiendo los lineamientos del CVO Sr. Germá Lugo 
+           de colocar todas las HU en la pila de producto, se realizó la asignación y ponderación de cada tarjeta para iniciar con la tarea asumida.
+
+        2) Investigar en internet acerca de los requisitos de la campaña de indiegogo y realizr el documento con la información documentada para el informe final.  
+
+	3) No se consiera ningun problema o impedimento.
+
 
