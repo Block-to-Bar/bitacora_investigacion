@@ -1,30 +1,28 @@
 Bitácora de trabajo de Uramay Cegarra para el equipo investigación
 
 1) ¿Qué hice desde la última reunión diaria hasta ahora?
-El sprint quedó organizado de la siguiente forma en trello
+Estuve atendiendo las siguientes tareas
 EDI3-S7 Cómo B/N necesito conocer los requisitos de las campañas de indiegogo
+Se elaboró un informe final con la información recabada 
 EDI4-S7: Yo como productor necesito conocer medios de intercambio comercial que me permitan mayores ingresos y transparencia en el proceso
 EDI1-S7 Yo cómo B/N necesito crear una base de datos a partir de las planillas entregadas por CAVENIT de productores y artesanos chocolateros
 
 
-Actividades posteriores pero incluidas en la pila de producto 
-EDI-S Cómo B/N necesito Investigar sobre la desforestaciones en la USB y cuanto costaría reforestarlo nuevamente
-EDI2-S7 Yo cómo B/N necesito ubicar cartográficamente las direcciones de chocolateros y productores
-
 2) ¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria?
 
 
-En la siguiente tarea EDI3-S7- Buscar si existe campañas similares a la de BitNibs en indiegogo
+En la siguiente tarea EDI4-S7- Realizando los copys con la ayuda del equipo de marketing
 
 3) ¿Qué problemas o impedimentos tengo?
-Hasta ahora se realizó la planificación en base a lo expuesto en las reuniones, necesito una postura clara sobre la participación de BitNibs en el proyecto de CAVENIT
+
 
 Octubre 2018
 
-Miercoles 03: 
+Lunes 08: 
 	
-- Reunión con el equipo de investigación para determinar la pila de sprint, realizar todos los rituales del scrum: discusión y ponderación de actividades, etc 	
-- Elaboración de la presentación en prezzi el evento de la cámara de japón 
+- Digitalización de planillas de cavenit en cuanto a chocolateros y productores para crear una base de datos 
+- Realizar los buyer persona de los productores y establecer los canales de comunicación 
+
 
 
 
